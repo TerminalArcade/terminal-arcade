@@ -1,4 +1,4 @@
-# Welcome to the Terminal Arcade!
+# Welcome to the Terminal Arcade
 Check out the arcade games contributed to by community members.
 
 # How to contribute
